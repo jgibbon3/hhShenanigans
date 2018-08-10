@@ -1,0 +1,50 @@
+/* Light Green: (00a79d; 0 167 157)
+Dark Green: (0a7c71; 10 124 113)
+Light Gray: (e3e3e3; 227 227 227)*/
+
+#subHeader {
+    color: rgb(10,124,113);
+    font-family: "Avenir Next" !important;
+    text-align: center
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60%;
+    padding-top: 20px;
+}
+
+#topOfPage {
+    height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(227,227,227);
+}
+
+#spacer {
+    background-color: white;
+    height: 5%;
+}
+
+form {
+    text-align: middle
+}
+
+
+#entries {
+    margin: auto;
+    width: 50%
+}
+
+#answerURL, #answer {
+    margin: auto;
+    width: 50%
+}
+
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url("http://www.yoursite.com/fonts/Avenir_Next.otf"); /* File to be stored at your site */
+    }
